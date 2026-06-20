@@ -1,0 +1,1067 @@
+{
+  "customPackID": "ad52d705-8635-40a5-9418-e4fa950e36bc",
+  "customPackName": "A shell of a time (Helixian)",
+  "listCustomFeats": [
+    {
+      "id": "4daa7ff8-d836-4026-8358-2c573b4eb96a",
+      "name": "Withdraw Into Shell",
+      "level": 1,
+      "action": 1,
+      "textDescription": "<p>You retreat fully into your shell. Until you leave your shell, you gain a +2 circumstance bonus to AC and a +2 circumstance bonus to Fortitude saves. Your Speed becomes 0, and you cannot use actions or activities. You can still use reactions.</p><p>You may leave your shell as a free action at the start of your turn.</p>",
+      "traits": "Helixian, 3rd Party, Concentrate",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "f454f6a2-8d87-475d-858a-baea5cdcecd9",
+      "name": "Slow But Sure",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>Your people are known for patience and persistence. A momentary mistake rarely shakes your resolve.</p><p><b>Frequency</b> once per hour</p><p><b>Trigger</b> You critically fail a skill check.</p><p>You steady yourself and try again. Reroll the triggering check and use the new result.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "ca633ffd-7745-442f-944b-3187e0b85d34",
+      "name": "Slime Ducts",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>Your body can rapidly produce additional mucus when threatened, allowing you to slip free of restraints.</p><p><b>Trigger</b> You attempt to Escape.</p><p>You secrete a burst of slippery mucus. Gain a +2 circumstance bonus to the triggering Escape attempt.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "515a4146-a553-4ff9-ac7e-f0bb03b5571d",
+      "name": "Patient Observer",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>You have learned that careful observation reveals truths missed by the hasty.</p><p>Choose one skill: <b>Nature</b>, <b>Occultism</b>, <b>Religion</b>, or <b>Society</b>.</p><p>You gain the <b>Assurance</b> skill feat for the chosen skill. If you already have Assurance in that skill, choose another skill from the list.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "8b9568df-0cd5-4069-9d46-976ec2b5ca18",
+      "name": "Mucous Coating",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>A protective layer of mucus shields your body from harmful contaminants.</p><p>You gain a +1 circumstance bonus to saving throws against disease and poison.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "eb9dd139-1e07-4c9c-bbf9-ab50d2199a4a",
+      "name": "Regenerative Mucus",
+      "level": 5,
+      "action": 0,
+      "textDescription": "<p>Your mucus has developed restorative properties that protect your body from wear and injury.</p><p>During your daily preparations, you gain temporary Hit Points equal to your level. These temporary Hit Points last until your next daily preparations.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "773ea81f-26a6-40b1-847d-43ec9f87da1a",
+      "name": "Hidden Compartments",
+      "level": 5,
+      "action": 0,
+      "textDescription": "<p>You have learned to use small natural recesses in your shell to store tools, supplies, and keepsakes.</p><p>You can carry 1 additional Bulk of items stored within your shell. Items stored this way are not visible unless a creature specifically searches your shell.</p><p>A creature attempting to locate an item hidden in your shell must succeed at a Perception check against your class DC.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "6f2a24f3-49be-4e9c-a603-0cf184a6276c",
+      "name": "Enduring Constitution",
+      "level": 5,
+      "action": 0,
+      "textDescription": "<p>Your slow metabolism and sturdy body allow you to endure hardship that would exhaust others.</p><p>You gain the <b>Toughness</b> general feat.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "b84b424b-0c15-4ce6-a873-55e7708733d7",
+      "name": "Slime Trail",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p>You can leave behind a slick trail of mucus to hinder pursuit.</p><p>When you <b>Step</b>, you may cause the square you leave to become difficult terrain until the start of your next turn. This difficult terrain affects creatures other than you.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "ffb40a29-a9ab-4562-8a1f-248cac3920f9",
+      "name": "Ancient Patience",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p>Helixians are not easily shaken from their purpose.</p><p><b>Frequency</b> once per day</p><p><b>Trigger</b> You fail a Will save.</p><p>Treat the failed save as a success.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "69492625-0338-41b5-8e32-d96eb1cac3ea",
+      "name": "Sheltered Rest",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p>You have learned to rest safely within your shell, conserving warmth and protecting yourself from the elements.</p><p>When you rest for 10 minutes or longer, you gain a +2 circumstance bonus to saving throws against environmental effects until your next daily preparations.</p><p>In addition, when you take a full night's rest, you regain additional Hit Points equal to your level.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "bb99f3d1-a6fa-4146-bf34-53fd7d69d52d",
+      "name": "Shared Heritage",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p>You have studied the traditions of other Helixian lineages and learned to adopt a small part of their practice.</p><p>Choose one 1st-level Helixian ancestry feat that has a Helixian heritage prerequisite other than your own heritage. You gain that feat, even if you don't meet its heritage prerequisite.</p><p>You must still meet any other prerequisites.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "ec5142af-89d2-423d-9e78-829e7954d3bf",
+      "name": "Revered Elder",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p>Your experience and patience command respect among Helixians and those familiar with their ways.</p><p>You gain a +1 circumstance bonus to Diplomacy checks to Make an Impression or Request something from creatures who respect age, tradition, patience, or spiritual authority.</p><p>If you are at least master in Society, Nature, Religion, or Occultism, this bonus increases to +2.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "f5097403-eda1-4315-bf85-4ba766bbe765",
+      "name": "Living Legacy",
+      "level": 17,
+      "action": 0,
+      "textDescription": "<p>You have become a living vessel of Helixian memory, carrying the accumulated wisdom of your people.</p><p>Choose one of the following skills in which you are at least master: Nature, Occultism, Religion, Society, or Survival.</p><p>Your proficiency rank in the chosen skill increases to legendary.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "81ba81ca-eda1-415c-9806-767beacb60c9",
+      "name": "Iron Shell",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>Your shell has grown unusually thick and resilient, allowing you to weather blows that would shatter lesser shells.</p><p>Whenever you use <b>Withdraw Into Shell</b>, you gain resistance to all physical damage equal to half your level, minimum 1, until you leave your shell.</p>",
+      "traits": "Bastion Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "ad726162-0f39-453b-a8bd-6e158eb2370b"
+      ]
+    },
+    {
+      "id": "77532142-3705-40b1-9818-c047a0f7eed1",
+      "name": "Shell Cache",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>Your shell contains carefully shaped compartments, hidden recesses, and storage spaces accumulated through years of travel.</p><p>Increase the additional Bulk granted by your Bastion Helixian heritage from 2 Bulk to 5 Bulk.</p><p>In addition, you can designate one compartment as a hidden cache. Creatures searching your possessions must succeed at a Perception check against your class DC to discover items stored within this compartment.</p>",
+      "traits": "Bastion Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "ad726162-0f39-453b-a8bd-6e158eb2370b"
+      ]
+    },
+    {
+      "id": "f1f862d5-e3a5-4f62-a217-5a57ba889893",
+      "name": "Reinforced Compartments",
+      "level": 5,
+      "action": 0,
+      "textDescription": "<p>You have expanded and reinforced the internal compartments of your shell, allowing you to carry far more than most travellers.</p><p>Increase the additional Bulk granted by <b>Shell Cache</b> by an amount equal to your Constitution modifier, minimum 1.</p><p>Items stored within your shell are protected from casual damage and exposure to weather.</p>",
+      "traits": "Bastion Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "77532142-3705-40b1-9818-c047a0f7eed1"
+      ]
+    },
+    {
+      "id": "381251ee-bdf5-42a3-9f62-58cb183206bc",
+      "name": "Moving Bulwark",
+      "level": 5,
+      "action": 1,
+      "textDescription": "<p><b>Requirements</b> You are using Withdraw Into Shell.</p><p>You have learned to shift your weight and advance without exposing yourself from within your shell.</p><p>Stride up to half your Speed. You remain withdrawn during this movement.</p>",
+      "traits": "Bastion Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "81ba81ca-eda1-415c-9806-767beacb60c9"
+      ]
+    },
+    {
+      "id": "0d9a3bce-7097-43ad-874a-5c9f1795ee97",
+      "name": "Immovable Bastion",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p>Your shell roots you firmly to the ground, making you almost impossible to shift.</p><p>While using <b>Withdraw Into Shell</b>, you gain a +2 circumstance bonus to your Fortitude DC against attempts to Shove, Reposition, or otherwise forcibly move you.</p><p>If a creature critically succeeds at such an attempt against you, it gets a success instead.</p>",
+      "traits": "Bastion Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "381251ee-bdf5-42a3-9f62-58cb183206bc"
+      ]
+    },
+    {
+      "id": "ed7168f3-ea07-4450-8933-bbb45a23d59a",
+      "name": "Sheltering Shell",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p>You have learned to position your shell so others can shelter behind it.</p><p>While using <b>Withdraw Into Shell</b>, adjacent allies gain lesser cover against ranged attacks and effects originating from the opposite side of you.</p>",
+      "traits": "Bastion Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "381251ee-bdf5-42a3-9f62-58cb183206bc"
+      ]
+    },
+    {
+      "id": "b995772b-9be0-4289-8abb-afbf70b11b59",
+      "name": "Fortress Shell",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p>Through years of practice, you have mastered the defensive use of your shell.</p><p>While using <b>Withdraw Into Shell</b>, you count as Large for the purpose of determining cover your shell provides, though your actual size, space, and reach do not change.</p><p>In addition, adjacent allies gain standard cover instead of lesser cover against ranged attacks and effects originating from the opposite side of you.</p>",
+      "traits": "Bastion Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "0d9a3bce-7097-43ad-874a-5c9f1795ee97"
+      ]
+    },
+    {
+      "id": "423e6197-42cc-40b4-9ba0-5477a0e010ae",
+      "name": "Anchored Fortress",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p>When you withdraw into your shell, you become a fixed defensive point on the battlefield.</p><p>While using <b>Withdraw Into Shell</b>, enemies treat squares adjacent to you as difficult terrain.</p><p>In addition, allies adjacent to you gain a +1 circumstance bonus to saving throws against forced movement effects.</p>",
+      "traits": "Bastion Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "ed7168f3-ea07-4450-8933-bbb45a23d59a"
+      ]
+    },
+    {
+      "id": "31f3a94a-5064-4101-b09b-dbb5442cbbd6",
+      "name": "Living Rampart",
+      "level": 17,
+      "action": 0,
+      "textDescription": "<p>Few Bastions rival your mastery of defensive positioning. Entire warbands have learned to shelter behind your shell.</p><p>While using <b>Withdraw Into Shell</b>, adjacent allies gain greater cover instead of standard cover against ranged attacks and effects originating from the opposite side of you.</p><p>In addition, one adjacent ally may use your shell as an elevated firing position. While doing so, that ally gains standard cover and ignores lesser cover when making ranged attacks.</p>",
+      "traits": "Bastion Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "b995772b-9be0-4289-8abb-afbf70b11b59"
+      ]
+    },
+    {
+      "id": "6dabe871-1a99-42d4-aa67-d406e8e862dd",
+      "name": "Walking Citadel",
+      "level": 17,
+      "action": 0,
+      "textDescription": "<p>You have become a living stronghold, shaping the battlefield around your shell.</p><p>While using <b>Withdraw Into Shell</b>, enemies treat squares adjacent to you as greater difficult terrain.</p><p>You and adjacent allies gain a +2 circumstance bonus to saving throws and DCs against forced movement effects.</p><p>In addition, you cannot be forcibly moved unless the effect moving you comes from a creature larger than you or from a magical effect of 9th rank or higher.</p>",
+      "traits": "Bastion Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "423e6197-42cc-40b4-9ba0-5477a0e010ae"
+      ]
+    },
+    {
+      "id": "cc534f8b-d76f-4a40-9893-d27da8712e9b",
+      "name": "Spiked Shell",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>Your defensive spines are sharper and more numerous than those of most Spiked Helixians.</p><p>The damage dealt by your Spiked Helixian heritage increases to <b>1 + half your level</b>.</p><p>In addition, you gain a +1 circumstance bonus to checks to Escape.</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "9c9fcb7d-ae73-4097-af81-c12d90b46046"
+      ]
+    },
+    {
+      "id": "a052d3ff-7c22-4a1b-908f-313434c07a8d",
+      "name": "Irritating Toxins",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>Your spines exude irritating toxins that make it painful for predators to keep hold of you.</p><p>Whenever a creature takes damage from your defensive spines, it takes a –1 circumstance penalty to Athletics checks made against you until the end of its next turn.</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "9c9fcb7d-ae73-4097-af81-c12d90b46046"
+      ]
+    },
+    {
+      "id": "3483be90-b16d-4868-b70e-e5bedf39f0c4",
+      "name": "Warning Display",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>Your vivid shell markings and threatening posture clearly warn predators that you are dangerous prey.</p><p>You become trained in Intimidation. If you would automatically become trained in Intimidation from your background or class, you instead become trained in another skill of your choice.</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "9c9fcb7d-ae73-4097-af81-c12d90b46046"
+      ]
+    },
+    {
+      "id": "bf01790d-bed2-4194-b838-f8e9bb0a0357",
+      "name": "Barbed Spines",
+      "level": 5,
+      "action": 0,
+      "textDescription": "<p>Your spines are hooked and jagged, tearing into creatures that strike or seize you.</p><p>Whenever a creature takes damage from your defensive spines, it takes an additional <b>1d4 piercing damage</b>.</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "cc534f8b-d76f-4a40-9893-d27da8712e9b"
+      ]
+    },
+    {
+      "id": "277fdadb-4b16-4733-882c-f790ce675bc5",
+      "name": "Helixian Neurotoxin",
+      "level": 5,
+      "action": 0,
+      "textDescription": "<p>Your toxins have developed into a true neurotoxin.</p><p>Whenever a creature takes damage from your defensive spines, it must attempt a Fortitude save against your class DC. A creature can be exposed to your Helixian neurotoxin only once per round.</p><p><b>Helixian Neurotoxin</b> Poison; Saving Throw Fortitude against your class DC; Maximum Duration 3 rounds.</p><p><b>Stage 1</b> slowed 1 until the end of its next turn<br><b>Stage 2</b> slowed 1 for 1 round<br><b>Stage 3</b> slowed 2 for 1 round</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "a052d3ff-7c22-4a1b-908f-313434c07a8d"
+      ]
+    },
+    {
+      "id": "faf1167c-c761-4d5a-a96c-d7f4045a19fd",
+      "name": "Menacing Crest",
+      "level": 5,
+      "action": 0,
+      "textDescription": "<p><b>Frequency</b> once per round</p><p><b>Trigger</b> A creature takes damage from your defensive spines.</p><p>When a creature injures itself on your spines, you know how to make the warning unmistakable.</p><p>You attempt to Demoralize the triggering creature.</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "3483be90-b16d-4868-b70e-e5bedf39f0c4"
+      ]
+    },
+    {
+      "id": "52ff9c8d-8297-41c2-918d-97f69dfc095f",
+      "name": "Hooked Spines",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p>Your spines catch and tear at creatures that try to force you aside.</p><p>Whenever a creature fails or critically fails an Athletics check against you, it takes piercing damage equal to the damage dealt by your defensive spines.</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "bf01790d-bed2-4194-b838-f8e9bb0a0357"
+      ]
+    },
+    {
+      "id": "7f932914-48d5-4be2-b2d9-31b045aaf505",
+      "name": "Improved Neurotoxin",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p>Your neurotoxin has become more persistent and debilitating.</p><p>Replace your Helixian Neurotoxin with the following version.</p><p><b>Improved Helixian Neurotoxin</b> Poison; Saving Throw Fortitude against your class DC; Maximum Duration 1 minute.</p><p><b>Stage 1</b> slowed 1 until the end of its next turn<br><b>Stage 2</b> slowed 1 for 1 round<br><b>Stage 3</b> slowed 2 for 1 round<br><b>Stage 4</b> slowed 2 and cannot use reactions for 1 round</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "277fdadb-4b16-4733-882c-f790ce675bc5"
+      ]
+    },
+    {
+      "id": "c11795a2-7da4-459b-b52e-28bb9c3783d6",
+      "name": "Predator's Warning",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p>Creatures that recognise your warning display hesitate to lay hands on you.</p><p>Creatures frightened by you take a –1 circumstance penalty to Athletics checks made against you.</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "faf1167c-c761-4d5a-a96c-d7f4045a19fd"
+      ]
+    },
+    {
+      "id": "7f9356e5-f824-4c42-af32-549aa80d3a8c",
+      "name": "Impaling Shell",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p>Creatures that lunge carelessly against your shell risk impaling themselves on your largest spines.</p><p>Whenever a creature critically fails an Athletics check against you, it takes <b>2d6 piercing damage</b> and <b>1d6 persistent bleed damage</b>.</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "52ff9c8d-8297-41c2-918d-97f69dfc095f"
+      ]
+    },
+    {
+      "id": "42032029-f03c-4339-94d0-b33b2ae4184d",
+      "name": "Potent Neurotoxin",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p>Your neurotoxin can briefly disrupt a creature's ability to act.</p><p>Replace your Improved Helixian Neurotoxin with the following version.</p><p><b>Potent Helixian Neurotoxin</b> Poison; Saving Throw Fortitude against your class DC; Maximum Duration 1 minute.</p><p><b>Stage 1</b> slowed 1 until the end of its next turn<br><b>Stage 2</b> slowed 1 for 1 round<br><b>Stage 3</b> slowed 2 for 1 round<br><b>Stage 4</b> slowed 2 and cannot use reactions for 1 round<br><b>Stage 5</b> slowed 2 and stunned 1</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "7f932914-48d5-4be2-b2d9-31b045aaf505"
+      ]
+    },
+    {
+      "id": "b30b4b19-0ce1-4922-b530-af971d5ab0e6",
+      "name": "Venom Harvest",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p>You have learned how to safely harvest small quantities of your own toxin.</p><p>During your daily preparations, you can harvest one dose of your highest-level Helixian neurotoxin. This dose remains potent until your next daily preparations.</p><p>A creature exposed to this dose attempts its Fortitude save against your class DC.</p>",
+      "traits": "Rare, Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "7f932914-48d5-4be2-b2d9-31b045aaf505"
+      ]
+    },
+    {
+      "id": "6d65a688-0310-4f2b-b9b0-1997837ef5be",
+      "name": "Venomous Reputation",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p>Your warning display carries the weight of lived terror. Predators know what your colours mean.</p><p>When you critically succeed at a Demoralize attempt, increase the target's frightened value by 1.</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "c11795a2-7da4-459b-b52e-28bb9c3783d6"
+      ]
+    },
+    {
+      "id": "a759bb5a-2e56-4795-a0ab-0e83188afb4e",
+      "name": "Living Bramble",
+      "level": 17,
+      "action": 0,
+      "textDescription": "<p>Your shell has become a mass of dangerous hooks, spines, and barbs.</p><p>Enemies treat squares adjacent to you as difficult terrain.</p><p>Once per round, when an enemy enters a square adjacent to you, that enemy takes piercing damage equal to the damage dealt by your defensive spines.</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "7f9356e5-f824-4c42-af32-549aa80d3a8c"
+      ]
+    },
+    {
+      "id": "7b013ce6-03ed-4b8a-a0bd-8f188001a679",
+      "name": "Paralytic Neurotoxin",
+      "level": 17,
+      "action": 0,
+      "textDescription": "<p>Your neurotoxin can overwhelm a creature's nervous system, leaving it briefly unable to respond.</p><p>Replace your Potent Helixian Neurotoxin with the following version.</p><p><b>Paralytic Helixian Neurotoxin</b> Poison; Saving Throw Fortitude against your class DC; Maximum Duration 1 minute.</p><p><b>Stage 1</b> slowed 1 until the end of its next turn<br><b>Stage 2</b> slowed 1 for 1 round<br><b>Stage 3</b> slowed 2 for 1 round<br><b>Stage 4</b> slowed 2 and cannot use reactions for 1 round<br><b>Stage 5</b> slowed 2 and stunned 1<br><b>Stage 6</b> stunned 2 and slowed 1 for 1 round</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "42032029-f03c-4339-94d0-b33b2ae4184d"
+      ]
+    },
+    {
+      "id": "48f41105-cd07-45b1-a917-564a85dd5926",
+      "name": "Toxic Arsenal",
+      "level": 17,
+      "action": 0,
+      "textDescription": "<p>You can prepare your harvested toxin for use on weapons, ammunition, and traps.</p><p>When you harvest a dose of Helixian neurotoxin during daily preparations, you may apply it to one weapon, piece of ammunition, or simple trap.</p><p>The next creature damaged by that weapon, ammunition, or trap is exposed to the toxin. The dose remains potent until delivered or until your next daily preparations.</p>",
+      "traits": "Rare, Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "b30b4b19-0ce1-4922-b530-af971d5ab0e6"
+      ]
+    },
+    {
+      "id": "c9a4ba6d-5cac-429e-b81f-4a148a0dd1a0",
+      "name": "Apex Display",
+      "level": 17,
+      "action": 0,
+      "textDescription": "<p><b>Frequency</b> once per minute</p><p><b>Trigger</b> A creature takes damage from your defensive spines.</p><p>Your warning display is terrifying enough to scatter even determined predators.</p><p>You attempt to Demoralize each enemy within 15 feet. Each enemy is affected only by the result of your Demoralize attempt against it.</p>",
+      "traits": "Spiked Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "6d65a688-0310-4f2b-b9b0-1997837ef5be"
+      ]
+    },
+    {
+      "id": "1656e6e5-f639-4191-9a48-2fb8ebf902eb",
+      "name": "Mucous Climber",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>Your adhesive mucus allows you to cling to slick surfaces and damp stone.</p><p>You gain a climb Speed of 10 feet.</p><p>While Climbing, you do not need a free hand to maintain your grip.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "998fab9a-8448-4528-8639-0ba2fdc14b94"
+      ]
+    },
+    {
+      "id": "88db5361-3463-4b34-bffb-391beade3881",
+      "name": "Marsh Forager",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>You know how to draw food, medicine, and useful materials from wetlands others would dismiss as barren.</p><p>You become trained in Survival. If you would automatically become trained in Survival from your background or class, you instead become trained in another skill of your choice.</p><p>You gain the <b>Forager</b> skill feat.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "998fab9a-8448-4528-8639-0ba2fdc14b94"
+      ]
+    },
+    {
+      "id": "3d38cb93-768c-45bd-a2ea-f779759b57d9",
+      "name": "Marsh Walker",
+      "level": 5,
+      "action": 0,
+      "textDescription": "<p>You move through wetland terrain with instinctive ease.</p><p>You gain a +5-foot status bonus to your Speed while in natural terrain.</p><p>In addition, you ignore non-magical difficult terrain caused by natural environments.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "1656e6e5-f639-4191-9a48-2fb8ebf902eb"
+      ]
+    },
+    {
+      "id": "e4dbca06-ace8-4cb7-aed3-be661b7f1e86",
+      "name": "Symbiotic Garden",
+      "level": 5,
+      "action": 0,
+      "textDescription": "<p>A colony of fungi, moss, or small marsh plants grows upon your shell, sustained by your nutrient-rich mucus.</p><p>During your daily preparations, choose one symbiotic colony. You gain its benefit until your next daily preparations.</p><p><b>Medicinal Fungi</b> Your colony supports your immune system. You gain a +1 circumstance bonus to saving throws against disease.<br><b>Nutrient Fungi</b> Your colony provides sustaining nutrients. You gain temporary Hit Points equal to half your level.<br><b>Luminescent Fungi</b> Your colony glows softly. You shed dim light in a 10-foot emanation and gain a +1 circumstance bonus to Survival checks to navigate natural environments.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "88db5361-3463-4b34-bffb-391beade3881"
+      ]
+    },
+    {
+      "id": "704d9b96-91b0-488e-b0c9-8ec47cfa59be",
+      "name": "Resourceful Cook",
+      "level": 5,
+      "action": 0,
+      "textDescription": "<p>You have learned to prepare nourishing meals from whatever the marsh provides.</p><p>During your daily preparations, if you have access to fresh natural ingredients harvested within the last day, you can prepare meals for a number of creatures equal to your Constitution modifier, minimum 1.</p><p>Creatures that eat one of these meals gain a +1 circumstance bonus to saving throws against environmental effects until your next daily preparations.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "998fab9a-8448-4528-8639-0ba2fdc14b94"
+      ]
+    },
+    {
+      "id": "9b612f96-494b-45ab-951c-3484c74dbb20",
+      "name": "Keen Gatherer",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p>You can read the land for signs of food, water, shelter, and safe passage.</p><p>You gain the <b>Assurance</b> skill feat for Survival.</p><p>When you use Survival to Subsist or Track in natural terrain, a success becomes a critical success.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "3d38cb93-768c-45bd-a2ea-f779759b57d9"
+      ]
+    },
+    {
+      "id": "f0fccaea-3eec-4f53-a2d0-b3ecbf687139",
+      "name": "Fungal Harvest",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p>You can safely harvest useful fungi from your shell without harming your symbiotic colony.</p><p>During your daily preparations, you create one fungal preparation from the list below. A fungal preparation remains usable until your next daily preparations.</p><p><b>Restorative Mushroom</b> A creature can Interact to consume this mushroom and regain Hit Points equal to your level.<br><b>Endurance Mushroom</b> A creature can Interact to consume this mushroom and gain a +1 circumstance bonus to saving throws against environmental effects for 1 hour.<br><b>Glowcap</b> A creature can Interact to activate this fungus, causing it to shed bright light in a 20-foot radius and dim light for an additional 20 feet for 1 hour.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "e4dbca06-ace8-4cb7-aed3-be661b7f1e86"
+      ]
+    },
+    {
+      "id": "99591b8d-bfe1-4ace-94d0-84682aad71bb",
+      "name": "Monster Harvester",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p>You know how to safely butcher, clean, preserve, and repurpose unusual creatures.</p><p>After defeating or finding the corpse of an Animal, Beast, Fungus, Plant, or Aberration, you can spend 10 minutes harvesting useful materials from it.</p><p>If the creature was at least half your level, you gather enough usable food or materials to count as fresh natural ingredients for <b>Resourceful Cook</b>.</p><p>At the GM's discretion, particularly unusual creatures may also provide ingredients suitable for crafting, medicine, alchemy, or trade.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "704d9b96-91b0-488e-b0c9-8ec47cfa59be"
+      ]
+    },
+    {
+      "id": "7ab09b4e-c0d4-48ba-a3b7-4c114052f17f",
+      "name": "Unerring Trailblazer",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p>You can lead companions safely through wetlands, forests, and other difficult natural terrain.</p><p>During overland travel, allies travelling with you ignore movement penalties from natural difficult terrain, provided you are able to guide them.</p><p>This does not allow allies to ignore magical terrain or hazards.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "9b612f96-494b-45ab-951c-3484c74dbb20"
+      ]
+    },
+    {
+      "id": "d318eee0-9e0d-4199-bc41-4266e49dbaad",
+      "name": "Thriving Colony",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p>Your symbiotic colony has grown dense, varied, and unusually healthy.</p><p>When you choose a colony benefit from <b>Symbiotic Garden</b> during your daily preparations, choose two benefits instead of one.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "f0fccaea-3eec-4f53-a2d0-b3ecbf687139"
+      ]
+    },
+    {
+      "id": "3a24cb6b-d241-42e1-afe9-826961a0fd07",
+      "name": "Community Feast",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p>Your cooking sustains not only the body, but the resolve of those who share your table.</p><p>When you use <b>Resourceful Cook</b>, each creature that eats one of your meals also gains temporary Hit Points equal to your level. These temporary Hit Points last until your next daily preparations.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "99591b8d-bfe1-4ace-94d0-84682aad71bb"
+      ]
+    },
+    {
+      "id": "65235aac-4cde-4cd8-84eb-5d1baa9e1cc4",
+      "name": "Child of the Marsh",
+      "level": 17,
+      "action": 0,
+      "textDescription": "<p>The marsh no longer hinders you in any form.</p><p>You gain a swim Speed equal to your land Speed.</p><p>Your climb Speed increases to equal your land Speed.</p><p>You ignore all non-magical difficult terrain caused by natural environments.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "7ab09b4e-c0d4-48ba-a3b7-4c114052f17f"
+      ]
+    },
+    {
+      "id": "088c9e26-6a85-487e-8b10-eec3365e730a",
+      "name": "Living Ecosystem",
+      "level": 17,
+      "action": 0,
+      "textDescription": "<p>Your shell has become a thriving miniature ecosystem.</p><p>You gain all three benefits of <b>Symbiotic Garden</b> at the same time.</p><p>In addition, when you use <b>Fungal Harvest</b> during your daily preparations, you create two fungal preparations instead of one.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "d318eee0-9e0d-4199-bc41-4266e49dbaad"
+      ]
+    },
+    {
+      "id": "35f8afec-66ba-4655-a493-e5fc6a765656",
+      "name": "Cycle of Renewal",
+      "level": 17,
+      "action": 0,
+      "textDescription": "<p>Nothing in nature is wasted, and you have mastered the art of turning death and decay into nourishment.</p><p>When you spend 1 hour harvesting natural materials from a suitable creature, corpse, or environment, you can produce food, fungal substrate, herbal reagents, or crafting materials appropriate to the source.</p><p>The GM determines the exact materials produced, but they should be suitable for survival, medicine, crafting, alchemy, trade, or feeding a settlement-scale community.</p>",
+      "traits": "Marsh Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "3a24cb6b-d241-42e1-afe9-826961a0fd07"
+      ]
+    },
+    {
+      "id": "31585de9-52d5-481c-ba99-fcb7f1fb90d9",
+      "name": "Echoing Shell",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>Your shell resonates with lingering fragments of ancestral memory and half-heard whispers.</p><p>You gain a +1 circumstance bonus to Recall Knowledge checks using the skill you chose for your Sage Helixian heritage.</p><p><b>Frequency</b> once per day</p><p><b>Trigger</b> You fail a Recall Knowledge check using the skill you chose for your Sage Helixian heritage.</p><p>You reroll the triggering check and use the new result.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "358b0cde-722f-4522-bc1f-df0382a371a0"
+      ]
+    },
+    {
+      "id": "38fba517-08b3-4159-904c-f71613e7cf1c",
+      "name": "Listener of the Wild",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>You have learned to hear the subtle voices carried by the living world.</p><p>Choose <b>Nature</b> or <b>Survival</b>. You become trained in the chosen skill. If you would automatically become trained in that skill from your background or class, you instead become trained in another skill of your choice.</p><p>Animals begin one step friendlier toward you unless they are hostile due to magical influence, immediate danger, or obvious provocation.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "358b0cde-722f-4522-bc1f-df0382a371a0"
+      ]
+    },
+    {
+      "id": "ae4595d2-bd8f-4d88-8e08-19faa961d81c",
+      "name": "Spiritual Insight",
+      "level": 1,
+      "action": 0,
+      "textDescription": "<p>Dreams, omens, and sudden intuitions guide your actions.</p><p><b>Frequency</b> once per day</p><p>When you roll initiative, choose one: attack roll, saving throw, or skill check.</p><p>Before your next daily preparations, you can gain a +1 circumstance bonus to one roll of the chosen type. You must decide to use this bonus before rolling.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "358b0cde-722f-4522-bc1f-df0382a371a0"
+      ]
+    },
+    {
+      "id": "d8385241-cbcd-45b5-954b-881464773e7d",
+      "name": "Ancestral Guidance",
+      "level": 5,
+      "action": 0,
+      "textDescription": "<p>You can quiet your thoughts and listen for the guidance of those who came before you.</p><p>During your daily preparations, choose one skill in which you are trained.</p><p>Until your next daily preparations, once per hour when you attempt a check using that skill, you may gain a +1 circumstance bonus to the check.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "31585de9-52d5-481c-ba99-fcb7f1fb90d9"
+      ]
+    },
+    {
+      "id": "4ec20491-198e-4f2f-b011-ce4da0f94cf2",
+      "name": "Whispering Marsh",
+      "level": 5,
+      "action": 0,
+      "textDescription": "<p>You can listen to the voices of a natural environment and learn what the land has witnessed.</p><p>You can spend 10 minutes in quiet observation while in natural terrain. When you do, ask the GM one of the following questions:<br>• What dangers are nearby?<br>• What large creatures have passed through recently?<br>• Where is the nearest source of fresh water?<br>• What natural resource is abundant here?</p><p>The answer is truthful, though it may be brief, cryptic, or limited by what the environment could reasonably reveal.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "38fba517-08b3-4159-904c-f71613e7cf1c"
+      ]
+    },
+    {
+      "id": "e045957f-8b48-4718-98d7-231c93c9529e",
+      "name": "Prophetic Dreams",
+      "level": 5,
+      "action": 0,
+      "textDescription": "<p>Your dreams increasingly show flashes of future danger or opportunity.</p><p>When you use <b>Spiritual Insight</b>, choose two roll types instead of one.</p><p>You can still use the bonus only once before your next daily preparations.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "ae4595d2-bd8f-4d88-8e08-19faa961d81c"
+      ]
+    },
+    {
+      "id": "a70bcf20-c184-4130-99c7-24d07c8019cb",
+      "name": "Shared Memory",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p><b>Frequency</b> once per hour</p><p><b>Trigger</b> An ally within 30 feet fails a Recall Knowledge check.</p><p>You can allow an ally to draw upon the echoes carried within your shell.</p><p>The ally rerolls the triggering check and uses the new result.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "d8385241-cbcd-45b5-954b-881464773e7d"
+      ]
+    },
+    {
+      "id": "a4f2ab08-e23c-46e2-9f8f-0d90f5e25b8e",
+      "name": "Voice of Growing Things",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p>The living world speaks to you more clearly.</p><p>Choose one spell: <b>speak with animals</b> or <b>speak with plants</b>.</p><p>You can cast the chosen spell once per day as an innate primal spell.</p><p>You may change your chosen spell after spending one week in communion with nature.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "4ec20491-198e-4f2f-b011-ce4da0f94cf2"
+      ]
+    },
+    {
+      "id": "5581aa8b-8819-4be2-b3bb-93eee92b3d0c",
+      "name": "Omen Reader",
+      "level": 9,
+      "action": 0,
+      "textDescription": "<p><b>Frequency</b> once per day</p><p><b>Trigger</b> You fail a skill check.</p><p>You can interpret signs before their meaning becomes clear.</p><p>Reroll the triggering check and use the better result.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "e045957f-8b48-4718-98d7-231c93c9529e"
+      ]
+    },
+    {
+      "id": "3c6c635c-6d3c-4d50-95f2-e32df993b7be",
+      "name": "Voices of the Ancestors",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p><b>Frequency</b> once per day</p><p><b>Trigger</b> An ally within 30 feet fails a skill check.</p><p>The ancestral voices around you have grown clearer, and you can call upon them to guide others.</p><p>The ally rerolls the triggering check and uses the new result.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "a70bcf20-c184-4130-99c7-24d07c8019cb"
+      ]
+    },
+    {
+      "id": "a5054e57-ee90-440a-9556-47c592382576",
+      "name": "Living Harmony",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p>The boundary between yourself and the natural world has begun to blur.</p><p>You gain a +1 circumstance bonus to Nature and Survival checks.</p><p>While in natural terrain, you can always determine the current weather trend, the approximate time of day, and the direction of north.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "a4f2ab08-e23c-46e2-9f8f-0d90f5e25b8e"
+      ]
+    },
+    {
+      "id": "d060afd1-f03a-46a7-a526-2f99e1c319ae",
+      "name": "Dream Journey",
+      "level": 13,
+      "action": 0,
+      "textDescription": "<p>Your dreams carry you briefly beyond waking thought, letting you glimpse possible futures.</p><p>You can cast <b>augury</b> once per day as an innate occult spell.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "5581aa8b-8819-4be2-b3bb-93eee92b3d0c"
+      ]
+    },
+    {
+      "id": "379cce88-c44e-463d-823f-86db6740589a",
+      "name": "Ancestral Communion",
+      "level": 17,
+      "action": 0,
+      "textDescription": "<p>You can enter deep communion with the ancestral spirits carried through your people’s memory.</p><p>During your daily preparations, choose two skills in which you are trained. Until your next daily preparations, your proficiency rank in those skills increases to master. If you are already master in either skill, increase that skill to legendary instead.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "3c6c635c-6d3c-4d50-95f2-e32df993b7be"
+      ]
+    },
+    {
+      "id": "c795012d-c120-4087-a0b8-0eddc9660935",
+      "name": "One With the Wild",
+      "level": 17,
+      "action": 0,
+      "textDescription": "<p>The natural world accepts you as one of its own.</p><p>You gain imprecise tremorsense with a range of 30 feet while in natural terrain.</p><p>In addition, animals with an Intelligence modifier of –4 or lower never begin encounters with you as hostile unless provoked, magically compelled, starving, defending their young, or otherwise acting under extreme pressure.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "a5054e57-ee90-440a-9556-47c592382576"
+      ]
+    },
+    {
+      "id": "1ea5144f-fde1-4847-9b84-a53db6fbd9d2",
+      "name": "Glimpse Beyond",
+      "level": 17,
+      "action": 0,
+      "textDescription": "<p>Each day, you glimpse one fragment of fate before it unfolds.</p><p>During your daily preparations, roll 1d20 and record the result.</p><p>Before your next daily preparations, when you or an ally within 30 feet would roll a d20, you may replace that roll with the recorded result. You must decide to do so before the roll is made.</p>",
+      "traits": "Sage Helixian, Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "reqFeats": [
+        "d060afd1-f03a-46a7-a526-2f99e1c319ae"
+      ]
+    }
+  ],
+  "listCustomHeritages": [
+    {
+      "id": "ad726162-0f39-453b-a8bd-6e158eb2370b",
+      "name": "Bastion Helixian",
+      "textDescription": "<p>Bastion Helixians possess immense iron-hard shells that continue to grow throughout their lives. Their shells serve as both protection and home, housing tools, supplies, and treasured possessions gathered during a lifetime of wandering.</p><p>When you use <b>Withdraw Into Shell</b>, increase the circumstance bonus to AC from +2 to +3. In addition, you can carry 2 additional Bulk of items stored within specialised compartments in your shell.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "9c9fcb7d-ae73-4097-af81-c12d90b46046",
+      "name": "Spiked Helixian",
+      "textDescription": "<p>Spiked Helixians possess smaller conical shells lined with sharp spiralling spines. These spines serve as a natural warning to predators, and older Spiked Helixians often develop irritating or toxic secretions along their shell and body.</p><p>Whenever a creature successfully hits you with an unarmed Strike or natural weapon Strike, successfully Grapples you, or successfully Swallows you Whole, it takes 1 piercing damage from your defensive spines.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "998fab9a-8448-4528-8639-0ba2fdc14b94",
+      "name": "Marsh Helixian",
+      "textDescription": "<p>Marsh Helixians possess thinner shells and produce nutrient-rich mucus that encourages the growth of fungi, mosses, and marsh plants. Their intimate understanding of wetland ecosystems has made them renowned foragers, cultivators, brewers, and cooks. Many Helixian settlements rely upon Marsh Helixians to provide food, medicine, and other necessities gathered from the surrounding wetlands.</p><p>You ignore difficult terrain caused by mud, marshes, shallow water, and natural undergrowth. This benefit applies only to naturally occurring terrain.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    },
+    {
+      "id": "358b0cde-722f-4522-bc1f-df0382a371a0",
+      "name": "Sage Helixian",
+      "textDescription": "<p>Sage Helixians possess translucent shells that resonate with subtle spiritual energies. Many believe these shells act as beacons, drawing the attention of ancestral spirits, natural forces, or stranger truths from beyond the waking world. Through contemplation and patience, Sage Helixians learn to listen to these whispers and serve as shamans, storytellers, judges, and spiritual leaders within Helixian society.</p><p>Choose one skill: <b>Nature</b>, <b>Religion</b>, or <b>Occultism</b>. You become trained in the chosen skill. If you would automatically become trained in that skill from your background or class, you instead become trained in another skill of your choice. Whenever you critically fail a Recall Knowledge check using the chosen skill, you get a failure instead.</p>",
+      "traits": "Helixian, 3rd Party",
+      "src": "Custom",
+      "databaseID": 1,
+      "timestamp": "1781993209566"
+    }
+  ],
+  "listCustomAncestries": [
+    {
+      "name": "Helixian",
+      "id": "986c2277-0366-4a97-b6c1-6babf36f2e82",
+      "traits": "Humanoid, Helixian, 3rd Party",
+      "speed": 20,
+      "abilityBoosts": [
+        2,
+        4
+      ],
+      "abilityFlaws": [
+        1
+      ],
+      "freeBoosts": 1,
+      "description": "<p>Helixians are a long-lived people descended from giant molluscan ancestors. Their bodies are protected by large shells that serve not only as natural armour, but as homes, gardens, shrines, and symbols of personal identity. A Helixian's shell reflects both their heritage and their place within society, whether it be the polished iron shell of a Bastion, the warning spines of a Spiked Helixian, the thriving fungal gardens of a Marsh Helixian, or the translucent shell of a Sage.</p><p>Patient and deliberate by nature, Helixians are rarely hurried. They favour careful consideration over rash action and often measure their lives in decades rather than years. This patience has allowed them to survive in some of the harshest environments of the world, cultivating rich communities within swamps, wetlands, and forgotten places where other peoples struggle to endure.</p><p>Helixian society is traditionally divided among several callings. Bastions serve as wanderers, traders, and living strongholds. Spiked Helixians stand as wardens and protectors of their settlements. Marsh Helixians cultivate the land and provide food, medicine, and resources to their communities. Sage Helixians preserve traditions, interpret omens, and guide their people through communion with nature, spirits, and ancestral wisdom.</p><p>Though Helixians vary dramatically in size, from barely two feet tall to towering individuals exceeding eight feet in height, they are considered Medium creatures for the purposes of game mechanics unless otherwise stated by an ancestry feat or ability.</p>",
+      "languages": "<i>Common, Ergot</i>",
+      "special": "<p><b>Hit Points</b> 10</p><p><b>Size</b> Medium</p><p><b>Speed</b> 20 feet</p><p><b>Ability Boosts</b> Constitution, Wisdom, Free</p><p><b>Ability Flaw</b> Dexterity</p><p><b>Languages</b> Common, Ergot. Additional languages equal to your Intelligence modifier, chosen from Draconic, Dwarven, Elven, Gnomish, Halfling, Sylvan, and any other languages to which you have access.</p><p><b>Low-Light Vision</b> You can see in dim light as though it were bright light.</p><p><b>Withdraw Into Shell</b> You gain the Withdraw Into Shell action.</p>",
+      "listCustomEffects": [
+        {
+          "effectType": 14,
+          "string0": "4daa7ff8-d836-4026-8358-2c573b4eb96a",
+          "reference": "869254c8-0ffd-4181-b0e9-569c9f9cec57"
+        }
+      ],
+      "src": "Custom"
+    }
+  ],
+  "listCustomBuffs": [
+    {
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "uniqueIdentifier": "ca4cec50-e383-4d2a-9f7d-b074953e9003",
+      "name": "Withdrawn Into Shell",
+      "description": "You are withdrawn into your shell.<br><br>Base effect: +2 circumstance bonus to AC and +2 circumstance bonus to Fortitude saves. Your Speed is 0 and you cannot use actions or activities, though you can still use reactions. You may leave your shell as a free action at the start of your turn.<br><br>Bastion Helixian: AC bonus becomes +3. Apply any additional Bastion feats manually."
+    },
+    {
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "uniqueIdentifier": "a6710d55-eb50-4b4d-9c72-ac0ffc8162c6",
+      "name": "Medicinal Fungi",
+      "description": "Symbiotic Garden choice.<br><br>You gain a +1 circumstance bonus to saving throws against disease until your next daily preparations."
+    },
+    {
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "uniqueIdentifier": "8d8af71d-2172-4e6b-869e-36244bf4c9de",
+      "name": "Nutrient Fungi",
+      "description": "Symbiotic Garden choice.<br><br>You gain temporary Hit Points equal to half your level until your next daily preparations."
+    },
+    {
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "uniqueIdentifier": "bb2e839c-bf10-4d1e-8df9-d999ebaca9d7",
+      "name": "Luminescent Fungi",
+      "description": "Symbiotic Garden choice.<br><br>You shed dim light in a 10-foot emanation and gain a +1 circumstance bonus to Survival checks to navigate natural environments until your next daily preparations."
+    },
+    {
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "uniqueIdentifier": "2c3270dd-a4af-4be0-828f-24a241b68ec0",
+      "name": "Helixian Neurotoxin Affliction",
+      "description": "Helixian Neurotoxin reminder.<br><br>Poison; Saving Throw Fortitude against your class DC; Maximum Duration 3 rounds.<br><br>Stage 1: slowed 1 until the end of its next turn.<br>Stage 2: slowed 1 for 1 round.<br>Stage 3: slowed 2 for 1 round."
+    },
+    {
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "uniqueIdentifier": "ac1d80da-2190-465f-9aec-dbb20718f4b6",
+      "name": "Improved Helixian Neurotoxin Affliction",
+      "description": "Improved Helixian Neurotoxin reminder.<br><br>Poison; Saving Throw Fortitude against your class DC; Maximum Duration 1 minute.<br><br>Stage 1: slowed 1 until the end of its next turn.<br>Stage 2: slowed 1 for 1 round.<br>Stage 3: slowed 2 for 1 round.<br>Stage 4: slowed 2 and cannot use reactions for 1 round."
+    },
+    {
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "uniqueIdentifier": "aa75d433-8736-4255-837e-a70e9cd9773e",
+      "name": "Potent Helixian Neurotoxin Affliction",
+      "description": "Potent Helixian Neurotoxin reminder.<br><br>Poison; Saving Throw Fortitude against your class DC; Maximum Duration 1 minute.<br><br>Stage 1: slowed 1 until the end of its next turn.<br>Stage 2: slowed 1 for 1 round.<br>Stage 3: slowed 2 for 1 round.<br>Stage 4: slowed 2 and cannot use reactions for 1 round.<br>Stage 5: slowed 2 and stunned 1."
+    },
+    {
+      "databaseID": 1,
+      "timestamp": "1781993209566",
+      "uniqueIdentifier": "284eb750-c577-47a9-855f-4e2253f3b66d",
+      "name": "Paralytic Helixian Neurotoxin Affliction",
+      "description": "Paralytic Helixian Neurotoxin reminder.<br><br>Poison; Saving Throw Fortitude against your class DC; Maximum Duration 1 minute.<br><br>Stage 1: slowed 1 until the end of its next turn.<br>Stage 2: slowed 1 for 1 round.<br>Stage 3: slowed 2 for 1 round.<br>Stage 4: slowed 2 and cannot use reactions for 1 round.<br>Stage 5: slowed 2 and stunned 1.<br>Stage 6: stunned 2 and slowed 1 for 1 round."
+    }
+  ]
+}
